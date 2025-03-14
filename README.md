@@ -1,0 +1,2 @@
+# okokchat
+devlopment script fivem 
